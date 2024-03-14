@@ -1,7 +1,8 @@
-DIABETES PREDICATION ANALYSIS
+
+#            DIABETES PREDICTION ANALYSIS
 ![Diabetics_Prediction_Analysis](https://github.com/PremTech786/Diabetes-Prediction-Analysis/assets/60956280/bf312064-5d15-4744-8202-8009803453bb)
-##Problem Statement:
-the analysis provides valuable insights into the gender distribution of employees, smoking history, blood glucose levels by age groups, and diabetes probability across different genders and age categories. These findings are crucial for understanding and predicting the likelihood of diabetes among the employee population, offering a foundation for targeted interventions and strategies to manage and prevent diabetes in the workplace.
+## Problem Statement:
+The analysis provides valuable insights into the gender distribution of employees, smoking history, blood glucose levels by age groups, and diabetes probability across different genders and age categories. These findings are crucial for understanding and predicting the likelihood of diabetes among the employee population, offering a foundation for targeted interventions and strategies to manage and prevent diabetes in the workplace.
 
 ## Gender Demographics of Employees
 ![Gender_Wise-Employee](https://github.com/PremTech786/Diabetes-Prediction-Analysis/assets/60956280/cd00ea93-f9bf-4e9f-8d22-2a9a6e673f71)
